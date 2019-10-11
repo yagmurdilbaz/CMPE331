@@ -1,2 +1,3 @@
 # CMPE331
-YAĞMUR DİLBAZ
+ Author YAĞMUR DİLBAZ
+ Author berkayyldirim
