@@ -1,3 +1,3 @@
 # CMPE331
-Author YAĞMUR DİLBAZ
+author yagmur dilbaz
 author merve bayer
